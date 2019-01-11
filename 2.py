@@ -1,0 +1,6 @@
+{"cod":"NC", "nombre":"Nueva Caledonia"},   
+{"cod":"NE", "nombre":"Níger"}, 
+{"cod":"NF", "nombre":"Islas Norkfolk"},    
+{"cod":"NG", "nombre":"Nigeria"},   
+{"cod":"NI", "nombre":"Nicaragua"}, 
+{"cod":"NL", "nombre":"Países Bajos"}, 
